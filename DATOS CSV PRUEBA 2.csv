@@ -1,4 +1,4 @@
-anyo;fallecidos;siniestroS;parque_vehicular
+anyo;fallecidos;siniestros;parque_vehicular
 1972;1792;-1,008817593;-1,111361348
 1973;1719;-1,169351658;-1,100413883
 1974;1269;-1,422685983;-1,091601612
@@ -47,5 +47,3 @@ anyo;fallecidos;siniestroS;parque_vehicular
 2017;1483;2,360667363;2,037252441
 2018;1507;2,085381352;2,239853171
 2019;1617;2,118605526;2,384158802
-;STD;;
-;PROM;;
